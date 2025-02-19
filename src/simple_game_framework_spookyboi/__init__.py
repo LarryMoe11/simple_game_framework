@@ -1,1 +1,0 @@
-from simple_game_framework_spookyboi.base import *

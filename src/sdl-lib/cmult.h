@@ -1,0 +1,1 @@
+float cmult(float a, float b);
