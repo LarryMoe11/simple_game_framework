@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simple_game_framework"
+version = "0.0.1"
+authors = [
+    {name = "SpookyBoi", email = "spooky.boi2806@gmail.com"},
+]
+description = "A simple framework for game development"
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ["game", "framework", "simple", "application"]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+dependencies = [
+    "pygame",
+    "apscheduler",
+]
+
+[project.urls]
+Homepage = "https://github.com/LarryMoe11/simple_game_framework"
+Issues = "https://github.com/LarryMoe11/simple_game_framework/issues"
