@@ -1,4 +1,3 @@
-# This file holds the main program for the game the Neural Network will be playing
 import pygame
 from apscheduler.schedulers.background import BackgroundScheduler
 from threading import Event
